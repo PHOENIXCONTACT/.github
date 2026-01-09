@@ -18,6 +18,7 @@ See also our accompanying projects and tools to get started with MORYX:
 - 🧑‍🎓 [Application-Developer-Training](https://github.com/PHOENIXCONTACT/Application-Developer-Training)
 - 🖥️ [MORYX-CLI](https://github.com/PHOENIXCONTACT/MORYX-CLI)
 - 🏭 [MORYX-Demo](https://github.com/PHOENIXCONTACT/MORYX-Demo)
+- 🛡️ [MORYX-Identity-Demo](https://github.com/PHOENIXCONTACT/MORYX-Identity-Demo)
 
 ### PLCnext
 
